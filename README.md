@@ -9,7 +9,7 @@ An intelligent full-stack AI platform built to evaluate ATS compatibility, extra
 > **Developed an AI-powered resume analysis platform using NLP techniques to evaluate ATS compatibility, extract skills, and generate personalized improvement recommendations.**
 
 ---
-## 📸 Project Preview
+
 <h2>📸 Project Preview</h2>
 
 <p align="center">
