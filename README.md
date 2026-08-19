@@ -54,9 +54,6 @@ Run the single start script from the project root:
 ./start.sh
 ```
 
-- **Frontend Application**: [http://localhost:5173](http://localhost:5173)
-- **FastAPI API & Swagger Docs**: [http://localhost:8000/docs](http://localhost:8000/docs)
-
 ---
 
 ## 📂 Project Structure
